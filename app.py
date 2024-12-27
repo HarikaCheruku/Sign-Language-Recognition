@@ -5,7 +5,7 @@ from keras.models import model_from_json
 from PIL import Image
 
 # Load the JSON file containing the model architecture
-json_file_path = r"C:\Users\HP\Desktop\sign language\signlanguagedetectionmodel48x48.json"
+json_file_path = r"C:\Users\HP\Desktop\signlanguage\signlanguagedetectionmodel48x48.json"
 with open(json_file_path, "r") as json_file:
     model_json = json_file.read()
 
@@ -13,7 +13,7 @@ with open(json_file_path, "r") as json_file:
 model = model_from_json(model_json)
 
 # Load the model weights
-model.load_weights(r"C:\Users\HP\Desktop\sign language\signlanguagedetectionmodel48x48.h5")
+model.load_weights(r"C:\Users\HP\Desktop\signlanguage\signlanguagedetectionmodel48x48.h5")
 
 # Function to preprocess the image
 def extract_features(image):
