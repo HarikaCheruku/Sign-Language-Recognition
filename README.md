@@ -48,7 +48,6 @@ cd Sign-Language-Recognition
 <h2>Usage</h2>
 <p>To start the project and use the real-time gesture recognition feature, run the following command:</p>
 <pre><code>streamlit run app.py</code></pre>
-<p>After running the above command, visit <a href="http://localhost:8501">http://localhost:8501</a> to access the Sign Language Recognition system, where the system will recognize your hand gestures and provide the translation.</p>
 
 <h2>Data Collection and Model Training</h2>
 <p>If you would like to create a custom dataset for training or retrain the model, you can use the <code>collect_data.py</code> script to collect images of hand gestures. The <code>split.py</code> script can be used to divide the dataset into training and testing subsets, which are required for model evaluation and improvement.</p>
