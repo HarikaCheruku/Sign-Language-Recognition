@@ -8,7 +8,7 @@
 <h2>Features</h2>
 <ul>
   <li><strong>Real-time Gesture Recognition:</strong> Uses a deep learning model trained to recognize ASL signs from real-time video feed captured through a camera.</li>
-  <li><strong>Text and Speech Output:</strong> Translates the recognized hand gestures into text, and then reads them out loud using Google Text-to-Speech (gTTS) API for better accessibility.</li>
+  <li><strong>Text Output:</strong> Translates the recognized hand gestures into text.</li>
   <li><strong>Data Collection:</strong> The system includes a data collection script to gather image data for training the model, allowing for custom dataset creation.</li>
   <li><strong>Model Training:</strong> The system allows you to train and test a model for hand gesture recognition using your own dataset.</li>
   <li><strong>Real-time Feedback:</strong> Users can instantly see the translated ASL signs displayed on the screen.</li>
@@ -19,7 +19,6 @@
 <ul>
   <li>Python (TensorFlow/Keras, OpenCV, Streamlit)</li>
   <li>Convolutional Neural Networks (CNNs) for gesture recognition</li>
-  <li>Google Text-to-Speech (gTTS) for converting recognized signs to speech</li>
   <li>Streamlit for creating the interactive web interface</li>
   <li>OpenCV for capturing real-time video and processing hand gestures</li>
   <li>Flask (optional, for deploying a web-based interface if needed)</li>
