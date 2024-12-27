@@ -1,4 +1,3 @@
-<a href="https://github.com/HarikaCheruku/Sign-Language-Recognition" target="_blank">Sign Language Recognition Application &#128279;</a>
 <h1>Sign Language Recognition</h1>
 
 <h2>Overview</h2>
