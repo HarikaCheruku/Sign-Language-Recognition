@@ -1,7 +1,7 @@
 <h1>Sign Language Recognition</h1>
 
 <h2>Overview</h2>
-<p>Sign Language Recognition is an innovative project aimed at improving communication between the deaf and hearing communities. This system uses machine learning and computer vision techniques to recognize American Sign Language (ASL) hand gestures and convert them into text and speech. By leveraging deep learning models trained on hand gesture images, this project empowers users to communicate in real-time through a live camera interface. This system is designed for accessibility, including features like text-to-speech conversion, which makes it easier for everyone to understand the recognized signs.</p>
+<p>Sign Language Recognition is an innovative project aimed at improving communication between the deaf and hearing communities. This system uses machine learning and computer vision techniques to recognize American Sign Language (ASL) hand gestures and convert them into text. By leveraging deep learning models trained on hand gesture images, this project empowers users to communicate in real-time through a live camera interface. This system is designed for accessibility which makes it easier for everyone to understand the recognized signs.</p>
 
 <p>Despite the advancements in speech-to-text and translation technologies, there is a gap in systems that can bridge communication for people using sign language. The goal of this project is to reduce this communication barrier and provide a reliable platform that can interpret ASL signs from visual inputs. This project also serves as a foundation for future developments in gesture-based communication systems.</p>
 
