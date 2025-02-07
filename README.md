@@ -62,4 +62,4 @@ cd Sign-Language-Recognition
 </ul>
 
 <h2>Contributing</h2>
-<p>If you would like to contribute to this project, feel free to open issues or submit pull requests. Please make sure to follow the contribution guidelines and ensure your changes are well-documented. Contributions to improving the dataset, accuracy of the models, and interface design are highly encouraged!</p>        write readme file in this format but include above all steps for it
+<p>If you would like to contribute to this project, feel free to open issues or submit pull requests. Please make sure to follow the contribution guidelines and ensure your changes are well-documented. Contributions to improving the dataset, accuracy of the models, and interface design are highly encouraged!</p>       
